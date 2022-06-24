@@ -1,0 +1,13 @@
+body {
+background-image : url("background.jpg");
+}
+
+.Un_Titre {
+font-weight : bold;
+color : red;
+}
+
+#Localisation {
+font-weight : bold;
+color : blue;
+}

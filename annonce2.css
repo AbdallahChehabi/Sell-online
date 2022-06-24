@@ -1,0 +1,61 @@
+h3 {
+color:CornflowerBlue;
+text-align:center;
+background-color:Lavender;
+font-family:arial;
+font-size:25px;
+}
+
+body {
+background-image:url("background.jpg");
+}
+
+#cor {
+width:60%;
+border:solid 1px;
+position:static;
+margin-top:20px;
+margin-bottom:10px;
+margin-left:auto;
+margin-right:auto;
+display:block;
+clear:none;
+padding:20px;
+min-height:200px;
+background-color:mistyrose;
+font-family:arial;
+color:blueviolet;
+}
+
+.Un_Titre {
+font-weight:bold;
+color:red;
+}
+
+#Localisation {
+font-weight:bold;
+color:blue;
+}
+
+#tire {
+color:navy;
+font-family:arial;
+font-size:30px;
+}
+
+#im1 {
+position:relative;
+left:400px;
+top:60px
+}
+
+#im2 {
+position:relative;
+left:425px;
+top:60px
+}
+#im3 {
+position:relative;
+left: 450px;
+top:60px
+}
